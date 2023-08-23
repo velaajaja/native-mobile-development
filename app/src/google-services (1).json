@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43370836423",
+    "project_id": "desarrollomovilnativo-86d1e",
+    "storage_bucket": "desarrollomovilnativo-86d1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43370836423:android:3a0c474aa357d0c22a29e2",
+        "android_client_info": {
+          "package_name": "co.edu.sena.appsebastianvelandia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43370836423-eg38am4kbruej5h1ihiij9mno8mk9jhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkZclUIlahSue5xp_eeR0wgFFye2TfrlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43370836423-eg38am4kbruej5h1ihiij9mno8mk9jhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
